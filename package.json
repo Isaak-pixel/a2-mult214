@@ -1,6 +1,5 @@
 {
   "name": "todo-app",
-  "homepage": "https://isaak-pixel.github.io/mult214-a2/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
